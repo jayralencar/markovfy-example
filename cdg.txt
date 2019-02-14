@@ -1,0 +1,42 @@
+Se você anda procurando um framework para construir aplicativos para dispositivos móveis que funcione tanto no Android como no iOs, você deve dar um pouco de atenção ao Flutter.
+
+O Flutter é um UI Toolkit , ou seja, um kit de ferramentas de interface do usuário, que fornece uma série de componentes visuais e funcionais para o desenvolvimento de aplicativos híbridos (que rodam em qualquer sistema operacional).
+
+No finzinho de 2018 o Google anunciou a primeira Release do Flutter através do blog Google Developers. Mas ele já vinha sendo utilizado por desenvolvedores do mundo inteiro desde o início de 2018. O framework promete desenvolvimento rápido e pouco verboso (você vai escrever menos). Além disso, segundo o que consta no próprio site do Flutter, ele promete ter a performance de aplicativos nativos.
+Características do Flutter
+
+O Google afirma que o Flutter não pode substituir completamente o modelo tradicional de construção de aplicativos para iOS ou Android. Mas que na verdade é um engine que pode ser adicionado a apps existentes, ou então ser usado na construção de aplicativos inteiros.
+
+As características do Flutter, segundo o próprio Google, são:
+
+    O Flutter possibilita que você faça aplicativos bonitos. O framework dá ao desenvolvedor a liberdade de modificar cada pixel da tela. O objetivo é dar liberdade aos designers para usem sua criatividade sem que percam parte de seu trabalho por causa de limitações técnicas. Além disso, é possível usar o Material Design do Google, com uma gama de Widgets já disponíveis. Para iOS, se você preferir, pode usar o Cupertino sem nenhuma dificuldade. É claro que deixar um app bonito depende muito da criatividade do designer, mas o Flutter fornece ferramentas que podem ajudar.
+    O Flutter é rápido. Ele é alimentado pelo mesmo mecanismo que acelera o Chrome e o Android: o Skia 2D. Esse mecanismo foca na aceleração de hardware, é mantido pelo Google, mas é open source e é usado por diversos outros softwares como Firefox e Firefox OS. A promessa do Google é de que a arquitetura do Flutter foi projetada para suportar gráficos jank-free na velocidade do dispositivo. Além disso, os aplicativos feitos com Flutter, são escritos na linguagem de programação Dart. Os apps escritos nessa linguagem podem ser compilados para nativos do Android ou do iOS com processadores ARM de 32 ou 64 bits. Isso é o que torna o Flutter rápido.
+    O Fluter é produtivo. O Flutter permite que você execute o aplicativo em um smartphone ou emulador enquanto programa. Toda vez que você salvar um arquivo no projeto, o aplicativo vai atualizar automaticamente no dispositivo, de maneira incrivelmente rápida. É o que os desenvolvedores chamam de stateful hot reload. Segundo o Google, essa funcionalidade a forma com a qual os desenvolvedores constroem aplicativos, tornando o processo mais produtivo.
+    E por fim, é livre, é aberto. O Flutter é um projeto open source com a licensa BSD-style, incluindo contribuições de centenas de desenvolvedores no mundo inteiro. O projeto está disponível no GitHub, assim como as instruções de como contribuir.
+
+Atualização em tempo real
+Por que usar o Flutter?
+
+Bom, se você procura por agilidade no desenvolvimento, e UIs bonitas, o Flutter é uma boa opção, além de ter uma performance muito boa quando comparado a concorrentes, como o Ionic por exemplo.
+
+O Flutter te dá liberdade em muita coisa, da arquitetura e organização do projeto até a interface do usuário. Ele deixa você trabalhar do jeito que achar melhor, e ainda dá suporte a todas as funcionalidades nativas do Android ou do iOS.
+
+A comunidade do Flutter está crescendo a cada dia, e já é possível encontrar templates prontos, issues resolvidas no GitHub ou em outros fóruns. Além da linguagem (Dart) ser relativamente fácil, se você é acostumado com JavaScript, vai conseguir caminhar em pouco tempo.
+Showcase do Flutter
+
+Para ter uma ideia de o quanto e como o flutter é usado, é só dar uma olhada na página de showcase deles (imagem acima). Além de tantos outros apps incríveis que são desenvolvidos e lançados pelo mundo a fora e não estão na lista.
+Por que não usar?
+
+Apesar do crescimento da comunidade, existe a possibilidade de que algumas bibliotecas sejam difíceis de encontrar, especialmente aquelas que resolvem problemas muito específicos.
+
+Uma outra possível desvantagem seria a restrição da ferramenta a dispositivos móveis, mas isso está mudando. Já é possível encontrar na internet alguns tutoriais de como usar o Flutter para construir aplicativos para Desktop, o que se torna uma alternativa bastante competitiva para o NWJS e o Electron. Veja:
+
+    Flutter: do Mobile para o Desktop
+    Flutter on desktop, a real competitor to Electron
+    Flutter: from Mobile to Desktop
+
+Conclusão
+
+O Flutter é o que há de mais novo em relação a ferramentas para desenvolvimento de aplicativos híbridos, ele tem vantagens e desvantagens, como qualquer outra tecnologia. Cabe ao desenvolvedor ponderar os pesos e saber se vale a pena ou não usá-lo.
+
+Para mim, valeu a pena. Tive que desenvolver um app relativamente pequeno em um curto espaço de tempo, e o flutter me ajudou muito nisso, além do app ter ficado bonito e rápido.
